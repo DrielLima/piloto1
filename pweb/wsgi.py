@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 """
 WSGI config for pweb project.
 
@@ -37,5 +36,3 @@ os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'pweb.settings')
 application = get_wsgi_application()
 
 app = application
-
->>>>>>> e84f4e8dfe6c3fa3fcee23e7a5092c49c0a68f24
