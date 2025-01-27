@@ -8,3 +8,5 @@ def sobre(request):
 def contato(request):
     return render(request, 'contato.html') 
 def ajuda (request): 
+        return render(request, 'ajuda.html')
+
