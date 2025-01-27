@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 """
 Django settings for pweb project.
 
@@ -248,4 +247,3 @@ STATIC_URL = 'static/'
 # https://docs.djangoproject.com/en/5.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
->>>>>>> e84f4e8dfe6c3fa3fcee23e7a5092c49c0a68f24
